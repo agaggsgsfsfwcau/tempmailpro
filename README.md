@@ -1,6 +1,6 @@
 # Temp Mail Pro - Disposable Email Service
 
-![Temp Mail Pro Screenshot](https://via.placeholder.com/800x400?text=Temp+Mail+Screenshot)
+![Temp Mail Pro Screenshot](https://i.postimg.cc/qBN4Ykv3/demo-screenshot.png)
 
 ## 🌟 Overview
 Temp Mail Pro is a web application that provides temporary, disposable email addresses, perfect for:
