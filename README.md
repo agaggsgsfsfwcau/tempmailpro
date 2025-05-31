@@ -68,9 +68,9 @@ graph LR
 4. Use it for registrations/verifications
 5. View incoming messages in your inbox
 
-### Advanced Features
+## Advanced Features
 
-# Account management tips:
+### Account management tips:
 - Click account to switch
 - Hover over buttons for tooltips
 - Right-click messages for actions
@@ -87,13 +87,6 @@ git clone https://github.com/agaggsgsfsfwcau/tempmailpro.git
 cd temp-mail
 # Edit files as needed
 ```
-
-## 🌱 Future Roadmap
-- [ ] Email forwarding capabilities
-- [ ] Keyboard shortcuts
-- [ ] Message filtering/organization
-- [ ] Export messages as PDF/EML
-- [ ] Browser extension version
 
 ## 📜 License
 MIT License - Free for personal and commercial use
