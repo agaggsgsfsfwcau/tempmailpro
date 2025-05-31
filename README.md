@@ -50,3 +50,52 @@ graph LR
     B --> C[Domain Management]
     B --> D[Account Creation]
     B --> E[Email Retrieval]
+```
+
+### Data Flow
+1. User requests new email
+2. App queries mail.tm for available domains
+3. Creates account with generated credentials
+4. Stores account info in localStorage
+5. Periodically checks for new messages
+
+## 📖 How to Use
+
+### Basic Usage
+1. Click "Create Email"
+2. Choose random or custom username
+3. Copy your new temporary email
+4. Use it for registrations/verifications
+5. View incoming messages in your inbox
+
+### Advanced Features
+
+# Account management tips:
+- Click account to switch
+- Hover over buttons for tooltips
+- Right-click messages for actions
+
+## 📦 Installation
+No installation required! Simply:
+1. Open `index.html` in any modern browser
+2. Start using temporary emails immediately
+
+*(For developers:)*  
+To modify the project:
+```bash
+git clone https://github.com/agaggsgsfsfwcau/tempmailpro.git
+cd temp-mail
+# Edit files as needed
+```
+
+## 🌱 Future Roadmap
+- [ ] Email forwarding capabilities
+- [ ] Keyboard shortcuts
+- [ ] Message filtering/organization
+- [ ] Export messages as PDF/EML
+- [ ] Browser extension version
+
+## 📜 License
+MIT License - Free for personal and commercial use
+
+---
