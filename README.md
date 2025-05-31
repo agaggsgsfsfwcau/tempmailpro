@@ -52,7 +52,7 @@ graph LR
     B --> E[Email Retrieval]
 ```
 
-### Data Flow
+## Data Flow
 1. User requests new email
 2. App queries mail.tm for available domains
 3. Creates account with generated credentials
