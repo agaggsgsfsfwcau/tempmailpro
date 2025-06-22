@@ -84,7 +84,8 @@ No installation required! Simply:
 To modify the project:
 ```bash
 git clone https://github.com/agaggsgsfsfwcau/tempmailpro.git
-cd temp-mail
+cd tempmailpro
+open index.html
 # Edit files as needed
 ```
 
